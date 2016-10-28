@@ -1,0 +1,28 @@
+{
+  "name": "to-query.js",
+  "version": "0.0.1",
+  "description": "Serialize a set of key/values into a query string, like ruby to_query method.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwartz/to-query.js.git"
+  },
+  "keywords": [
+    "to-query",
+    "to_query",
+    "ruby"
+  ],
+  "author": "xwartz <stddup@gmail.com> (https://github.com/xwartz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xwartz/to-query.js/issues"
+  },
+  "homepage": "https://github.com/xwartz/to-query.js#readme",
+  "devDependencies": {
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
